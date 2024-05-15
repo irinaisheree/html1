@@ -1,0 +1,29 @@
+h1{
+  color: brown;
+}
+
+p{
+    font-size: 30px;
+}
+
+.highlights{
+    background-color: chartreuse;
+}
+
+#main-title{
+    color: chocolate;
+}
+#special-paragraph{
+    font-style: italic;}
+
+ul{
+    font-style: oblique;
+}
+
+li{
+    color: rgb(220, 20, 167);
+}
+
+div{
+    background-color: rgb(231, 169, 202);
+}

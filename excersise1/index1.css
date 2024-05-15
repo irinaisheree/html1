@@ -1,0 +1,14 @@
+p{
+    color: blueviolet;
+}
+
+.highlights{
+    background-color: rgb(174, 61, 144);
+}
+
+#main-title{
+    color: brown;
+}
+#special-paragraph{
+    font-style: italic;
+}
