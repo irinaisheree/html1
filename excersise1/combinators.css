@@ -1,0 +1,18 @@
+div p{
+    color: brown;
+}
+
+ul > li{
+ list-style-type:upper-latin;
+ color: blueviolet;
+}
+
+p + p{
+    background-color: cornflowerblue;
+}
+
+p ~ span {
+    font-weight: 800;
+    color: deeppink;
+    background-color: fuchsia;
+}
