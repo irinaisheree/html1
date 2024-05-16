@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compound Selectors Example</title>
+    <link rel="stylesheet" type="text/css" href="compound-selectors.css">
+</head>
+<body>
+    <h1>Main Heading</h1>
+
+    <div id="container">
+        <p>This is the first paragraph inside a div.</p>
+        <ul class="list">
+            <li id="item1">Item 1 <a href="#">Link</a></li>
+            <li class="highlighted">Item 2</li>
+            <li data-category="fruit">Item 3</li>
+        </ul>
+    </div>
+
+    <p>This is a paragraph outside the div.</p>
+
+    <div id="another-container">
+        <p class="description">This is the second paragraph inside a div.</p>
+        <ul>
+            <li id="fruit">Apple</li>
+            <li class="highlighted" data-category="fruit">Orange</li>
+            <li>Banana</li>
+        </ul>
+    </div>
+    <input type="text" class="input-field">
+    <p id="last-paragraph">This is another paragraph outside the div.</p>
+</body>
+</html>

@@ -1,0 +1,14 @@
+ul.list{
+    color: blue;
+    font-size: xx-small;
+}
+
+div#container{
+    background-color: coral;
+    padding: 0cqi;
+}
+
+input[class="input-field"]{
+    padding: 0cm;
+    border-color: aquamarine;
+}
